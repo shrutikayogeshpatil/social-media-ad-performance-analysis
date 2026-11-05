@@ -2,7 +2,7 @@
 
 #  Social Media Advertisement Performance Analysis
 
-##  Project Overview
+##  Overview
 
 This project analyzes **social media advertising campaign data** to identify which advertisements perform best in terms of **link clicks and lead generation**.
 
